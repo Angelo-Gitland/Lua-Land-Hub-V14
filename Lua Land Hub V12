@@ -189,7 +189,7 @@ addScript("Games", "Ultimate Battlegrounds", "https://raw.githubusercontent.com/
 addScript("Games", "Swords Legends Simulator", "https://raw.githubusercontent.com/OhhMyGehlee/gdfhj/main/dsaty")
 addScript("Games", "Hero's Destiny", "https://raw.githubusercontent.com/JustLevel/working-newbie/main/AHD.lua")
 addScript("Games", "Hero's Destiny [Loader]", "https://raw.githubusercontent.com/R3TH-PRIV/R3THPRIV/main/loader.lua")
-addScript("Games", "Crown Divers", "https://raw.githubusercontent.com/GhostPlayer352/Test4/main/Crown%20Divers")
+addScript("Games", "Crown Divers", "https://pastebin.com/raw/GSyAWmkD")
 addScript("Games", "Washiez Car Wash", "https://washiez-script.pages.dev/new.lua")
 addScript("Games", "Launch Into Space Simulator", "https://whimper.xyz/cathub.lua")
 addScript("Games", "Asylum", "https://rawscripts.net/raw/item-asylum-kill-all-29644")
@@ -226,6 +226,9 @@ addScript("Games", "Meet Sammy Tower", "https://raw.githubusercontent.com/Angelo
 addScript("Games", "Slap Tower X", "https://raw.githubusercontent.com/Angelo-Gitland/Slap-Tower-X-Lua-Land-Hub-STX94side/refs/heads/main/Slap%20Tower%20X%20LuaLandHubSide94")
 addScript("Games", "Mini City Tycoon", "https://raw.githubusercontent.com/NamNom00/LoL-Scripts/refs/heads/main/mini-city-tycoon")
 addScript("Games", "My Brainrot Egg Farm", "https://raw.githubusercontent.com/Chavels123/Loader/refs/heads/main/loader.lua")
+addScript("Games", "TimeBomb", "https://raw.githubusercontent.com/Angelo-Gitland/Time-Bomb-Lua-Land-Hub/refs/heads/main/Time%20Bomb%20side100%20Script")
+addScript("Games", "Raspberry Canyon", "https://raw.githubusercontent.com/Angelo-Gitland/Raspberry-Canyon-Lua-Land-Script/refs/heads/main/Raspberry%20Canyon%20LuaLandside101")
+addScript("Games", "Secret Killer", "https://raw.githubusercontent.com/Angelo-Gitland/Secret-Killer-Lua-Land-Hub-Script/refs/heads/main/Secret%20Killer%20Script%2099side%20Script")
 
 addScript("Universal", "SSTICKDUD GUI", "https://gist.githubusercontent.com/Angelo-Gitland/61301a7d73b79da32642cf9ef93b2437/raw/3dd135b6921c0b5cb91c04c624e193f7de8f7dfe/SSTICKDUD%2520GUI")
 addScript("Universal", "R3 GUI", "https://raw.githubusercontent.com/R3LIST/r3gui/main/main.lua")
