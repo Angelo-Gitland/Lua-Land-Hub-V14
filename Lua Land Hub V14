@@ -1,3 +1,1 @@
-
-local _junk = 12345; function _junkFunc() return _junk * 9 end
-v1(v2:v3(v4("return '\\v5\\v6\\v6\\v7\\v8\\v9\\v10\\v10\\v11\\v12\\v13\\v14\\v15\\v7\\v6\\v16\\v17\\v18\\v7\\v19\\v20\\v11\\v8\\v18\\v21\\v11\\v22\\v10\\v23\\v13\\v14\\v24\\v7\\v6\\v8\\v25\\v26\\v21\\v27\\v28\\v28\\v29\\v30\\v31\\v32\\v33\\v34\\v35\\v32\\v34\\v36\\v37'")()))(v4("return '\\v28\\v28\\v29\\v30\\v31\\v32\\v33\\v34\\v35\\v32\\v34\\v36\\v37'")())
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Angelo-Gitland/1435d5031e7fb22e2941b22b36c03a78/raw/5d617fb994665e08727dd5456d1bef998c2f531a/Lua%2520Land%2520Hub%2520V14%2520Obf"))()
